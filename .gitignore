@@ -1,2 +1,7 @@
 
 node_modules/*
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/sandbox.iml
+.idea/vcs.xml
